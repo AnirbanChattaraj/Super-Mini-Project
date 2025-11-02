@@ -26,9 +26,7 @@ It’s lightweight, responsive, and beginner-friendly — perfect to upload as y
 
 Feel free to fork this repo and improve it. Pull requests are always welcome!
 
-🧑‍💻 Author
-
-Anirban Chattaraj – Web Developer | Tech Enthusiast | Lifelong Learner
+🧑‍💻 Author-->Anirban Chattaraj – Web Developer | Tech Enthusiast | Lifelong Learner
 
 ⭐ Don’t forget to star this repo if you like it!
 link--> https://anirbanchattaraj.github.io/Super-Mini-Project/
